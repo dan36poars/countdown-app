@@ -1,0 +1,16 @@
+{
+  "name": "eslint-prettier-typescript",
+  "version": "1.0.0",
+  "description": "eslint, prettier with typescript",
+  "main": "main.ts",
+  "scripts": {
+    "server": "http-server --cors"
+  },
+  "author": "Daniel C.",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "repository": "https://github.com/dan36poars/countdown-app.git",
+  "dependencies": {}
+}
